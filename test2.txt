@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 happy birthday.
+=======
+happy birthday...
+>>>>>>> a40a5cb9dcc2005570f22e9ef72bb615d5c28b19
